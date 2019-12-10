@@ -9,7 +9,7 @@
 ```
 $ sudo -H python3 pip install cryptos
 ```
- If this doesn't work for you primal100/pybitcointools can be found [here](https://github.com/primal100/pybitcointools) or [here](https://github.com/beiex/pybitcointools)
+ If this doesn't work for you primal100/pybitcointools can be found [here](https://github.com/beiex/pybitcointools) or [here](https://github.com/primal100/pybitcointools)
  
 
 ## Usage
