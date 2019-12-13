@@ -1,6 +1,6 @@
 # Bitcoin public keys converted to addresses
 
- This python script will "batch" convert compressed, uncompressed and levelDB-compressed public keys to addresses 
+ This python script will "batch" convert compressed, uncompressed and levelDB-compressed (chainstate) public keys to addresses 
 
 ## Install
 
